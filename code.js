@@ -1,1 +1,1 @@
-const sehmus = document.querySelector('h1').innerHTML = "merhaaaaba";
+document.querySelector('h1').innerHTML = "merhaaaaba";
